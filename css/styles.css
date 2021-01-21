@@ -1,0 +1,48 @@
+table {
+  border: solid 1px;
+  background-color:white;
+  border-collapse: collapse;
+  caption-side: top;
+  text-align: center;
+  table-layout: auto;
+  width: 100%;
+}
+
+
+th {
+  border: solid 1px;
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: rgb(167, 167, 185);
+}
+
+td {
+  border: solid 1px;
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+caption {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+.zeit {
+  font-size: 1.5rem;
+  text-align: center;
+  width: 2rem;
+  background-color: rgb(167, 167, 185);
+}
+.frei{
+    background-color: rgb(80, 202, 80);
+}
+.sport{
+    background-color: rgb(75, 75, 211);
+}
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+hr {
+  margin: 50px auto 100px auto;
+}
