@@ -1,2 +1,2 @@
 # stundenplan
-Übung CSS eine Tabelle erstellen
+ eigene Übung mit HTML und CSS eine Tabelle erstellen
